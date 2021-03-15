@@ -24,7 +24,7 @@
             
             <div class="banner-right animate__animated animate__fadeInRight" data-aos="fade-down">
             <p class="zoomIn animated" style="margin:10% auto; font-size:40px"> <em>The Better Way To Bank !</em></p>
-                <b><h2 class="heading">Welcome to Robobank.</h2><br>
+                <b><h2 class="heading">Welcome to Rabobank.</h2><br>
                 <p class="para"> Doing what we're good at, that's our motto.</p><br> </B><br>
                 
                 
